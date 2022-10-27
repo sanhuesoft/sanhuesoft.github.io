@@ -609,7 +609,7 @@
   Link: </component---src-templates-tag-template-js-8a52b137afe5823a6af3.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/tag/funciones-matematicas/page-data.json>; rel=preload; as=fetch; crossorigin
-/tag/fisica
+/tag/gravedad
   Link: </webpack-runtime-5dd182d9d36efcd61389.js>; rel=preload; as=script
   Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
   Link: </framework-3f35191b7c4a46711e81.js>; rel=preload; as=script
@@ -620,7 +620,7 @@
   Link: </commons-680d1f1bc6af01dd12f2.js>; rel=preload; as=script
   Link: </component---src-templates-tag-template-js-8a52b137afe5823a6af3.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </page-data/tag/fisica/page-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/tag/gravedad/page-data.json>; rel=preload; as=fetch; crossorigin
 /tag/habitos-positivos
   Link: </webpack-runtime-5dd182d9d36efcd61389.js>; rel=preload; as=script
   Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
