@@ -5,7 +5,7 @@ date: 2022-10-25
 
 El inicio de esta historia se remonta al siglo IV a.e.c., época de la Academia de Platón y El Liceo de Aristóteles, quien da nombre al primero de estos modelos. La física de Aristóteles postulaba **dos principios fundamentales**: que los cuerpos caen a velocidad constante y que los objetos más pesados caen más rápido que los livianos. Además, proponía que los cuerpos pesados encuentran su lugar natural en el centro del universo que, al amparo de una lógica geocéntrica, es el centro de la Tierra. Por otro lado, los cuerpos livianos, como los gases, hallaban su lugar natural en el cielo.
 
-Uno de los aspectos principales en que fallaba el modelo aristotélico era que **ponía el movimiento en el medio en lugar de en el objeto**. Esta asunción producía un problema lógico grave: si el movimiento se produce en el medio y no en el objeto, ¿cómo se puede explicar el movimiento de los cuerpos en el vacío? A pesar de este y otros errores, la física aristotélica fue de gran importancia como teoría del movimiento —hay que pensar que se aceptó desde la época en que vivió su autor hasta el siglo XVII.
+Uno de los aspectos principales en que fallaba el modelo aristotélico era que **ponía el movimiento en el medio en lugar de en el objeto**. Esta asunción producía un problema lógico grave: si el movimiento se produce en el medio y no en el objeto, ¿cómo se puede explicar el movimiento de los cuerpos en el vacío? A pesar de este y otros errores, la física aristotélica fue de gran importancia como teoría del movimiento —hay que pensar que se aceptó desde la época en que vivió su autor hasta el siglo XVII. 
 
 Muchos años después de Aristóteles, apareció Galileo.
 
